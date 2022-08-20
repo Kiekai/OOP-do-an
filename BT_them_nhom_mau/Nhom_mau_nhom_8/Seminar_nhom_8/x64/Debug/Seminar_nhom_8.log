@@ -1,0 +1,15 @@
+﻿  A.cpp
+  AB.cpp
+  B.cpp
+  DoHoa.cpp
+E:\VSS\NHOM_8\BT_them_nhom_mau\Nhom_mau_nhom_8\Seminar_nhom_8\DoHoa.cpp(27,31): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\VSS\NHOM_8\BT_them_nhom_mau\Nhom_mau_nhom_8\Seminar_nhom_8\DoHoa.cpp(27,37): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Loai.cpp
+  O.cpp
+  Play.cpp
+  Source.cpp
+  TienHanh.cpp
+  TienHanh2.cpp
+E:\VSS\NHOM_8\BT_them_nhom_mau\Nhom_mau_nhom_8\Seminar_nhom_8\TienHanh2.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Seminar_nhom_8.vcxproj -> E:\VSS\NHOM_8\BT_them_nhom_mau\Nhom_mau_nhom_8\x64\Debug\Seminar_nhom_8.exe

@@ -1,0 +1,7 @@
+﻿+ Điều kiện để chương trình chạy: Cần cài đặt phần mềm Visual Studio 
++ Hướng dẫn chạy chương trình:
+   - Xuất hiện ngay khi bắt đầu sẽ là trang menu chính gồm 2 mục chính đó “Bắt đầu” và “Thoát” (trang 1).
+   - Khi chọn Bắt đầu, trang 1 sẽ nhảy đến trang 2, ở trang này bạn sẽ thấy các yêu cầu của chương trình và 2 lựa chọn Bắt đầu và Thoát: nếu chọn Bắt đầu bạn sẽ được chuyển qua trang 3, ngược lại sẽ nhảy về lại trang 1.
+   - Ở trang 3 sẽ xuất hiện xuất hiện các yêu cầu, bạn chỉ cần nhập theo yêu cầu của đề bài và sẽ được trả lại kết quả của yêu cầu đó.
+   -Sau khi hoàn thành các yêu cầu, trang 4 sẽ xuất hiện với 2 lựa chọn “Chơi lại” và “Thoát”. Nếu chọn “Chơi lại” chương trình sẽ quay về trang 3, ngược lại chương trình kết thúc.
+

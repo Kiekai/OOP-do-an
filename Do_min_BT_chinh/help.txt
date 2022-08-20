@@ -1,0 +1,17 @@
+﻿+ Điều kiện để chương trình chạy: Cài cài phần mềm Visual Studio 
++ Hướng dẫn chơi game:
+   - Xuất hiện ngay khi bắt đầu sẽ là trang menu chính gồm 2 mục chính đó là game mới và thoát (trang 1)
+       + Khi chọn game mới, trang 1 sẽ nhảy đến trang 2, ở trang này bạn có thể chọn các cấp độ dễ, trung bình và khó, đồng thời sẽ có thêm một lựa chọn là quay về trang 1
+       + Nếu bạn chọn các cấp độ dễ, trung bình, khó chương trình sẽ chuyển sang trang 3
+       + Nếu bạn chọn quay về, thì sẽ được chuyển về trang 1
+   -  Ở trang 3 sẽ xuất hiện một bảng 2 chiều có kích cỡ và số bom ngang với độ khó đã chọn từ trang 2, ở đây người chơi sẽ trực tiếp đi gỡ mìn trên bảng này:
+       + Có thể sử dụng các phím lên, trái, phải, xuống để di chuyển, phím Z để mở ô và phím X để gán cờ và có thể nhấn X lần nữa để gỡ cờ.
+       + Khi gán cờ ô đó sẽ có P màu đỏ và nền vàng
+       + Các ô được mở sẽ có số hiển thị số bom xung quanh hoặc được loang rộng ra cho đến khi đụng ô hiển thị số bom
+        + Đồng thời thông tin về trạng thái, độ khó, số bom và số cờ cũng sẽ được hiển thị trên màn hình chơi
+   - Nếu gỡ mìn thất bại, trường hợp mở trúng ô có bom, từ trang 3, thay đổi trạng thái từ "đang chơi" về "thua". 
+       + Sau đó hiển thị hết những ô có bom, các ô đánh cờ sai(kí hiệu S) và các ô đã đánh đúng(kí hiệu D)                         
+       + Tiếp theo hỏi người chơi rằng có muốn chơi tiếp hoặc dừng lại, nếu chơi tiếp thì quay về trang 2, dừng lại thì thoát chương trình
+  - Khi người chơi đã mở hết những ô không có bom, đổi trạng thái từ "đang chơi" thành "thắng", sau đó hỏi liệu người chơi có muốn chơi tiếp hoặc dừng lại.
+    Nếu tiếp tục, quay lại trang 2, ngược lại thì dừng chương trình
+
